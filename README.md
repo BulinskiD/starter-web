@@ -21,4 +21,4 @@ New line added from master and some more text
 form my-feature branch
 
 ##Copyright
-Copyright
+Copyright with some more informations
