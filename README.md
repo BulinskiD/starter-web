@@ -2,6 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 Changes in readme file 
-## Purpose
 
+## Purpose
 Sample website with plenty of files
+
+
+## Some more info
+sadadasda
