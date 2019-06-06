@@ -17,7 +17,8 @@ dsads New test added heere
 
 ## Last one 
 Last one or maybe not
-New line added from master 
+New line added from master and some more text
+form my-feature branch
 
 ##Copyright
 Copyright
